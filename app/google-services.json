@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36898490259",
+    "project_id": "myfinancerecords-b15a1",
+    "storage_bucket": "myfinancerecords-b15a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36898490259:android:08456fb723c668a1d5ca66",
+        "android_client_info": {
+          "package_name": "com.tmdsimple.myfinancerecords"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8EUcO20gUd8MnFQ9oXoIX_jopcwPzpL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
